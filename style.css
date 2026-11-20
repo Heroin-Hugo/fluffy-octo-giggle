@@ -8,9 +8,10 @@
 /* Basisinstellingen voor het hele document */
 body {
     font-family: Arial, sans-serif;
-    color: #333;
-    background-color: #f4f4f4;
-    line-height: 1.6;
+    color: #bd8f8f;
+    background-color: #302323;
+    line-height: 1.6; 
+    /*ik heb dit veranderd*/
 }
 
 
